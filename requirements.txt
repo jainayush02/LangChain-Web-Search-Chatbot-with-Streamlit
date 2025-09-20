@@ -1,0 +1,12 @@
+python-dotenv
+ipykernel
+langchain
+langchain-core
+langchain_community
+langchain-huggingface
+langchain-google-genai
+langchain-groq
+arxiv
+wikipedia
+bs4
+sentence-transformers
