@@ -10,3 +10,5 @@ arxiv
 wikipedia
 bs4
 sentence-transformers
+ddgs
+streamlit
